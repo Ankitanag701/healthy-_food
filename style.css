@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 90px;
+}
+.recipecard img{
+    width: 400px;
+    height: auto;
+    border-radius: 18px;
+}
+.recipe-card img{
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+}
+.moment img{
+    width: 400px;
+    height: auto;
+    border-radius: 20px;
+}
+.h1{
+    margin: auto;
+    text-align: center;
+    padding: bottom 25px;
+}
+.recipe-content{
+    margin: auto;
+    text-align: center;
+    padding: bottom 28px;
+} css code
